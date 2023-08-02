@@ -1,0 +1,1 @@
+<img src="{{ asset('logo/emprendeLogo.png') }}" width="100px">
